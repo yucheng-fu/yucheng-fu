@@ -1,6 +1,8 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi%2C+I'm+Yucheng+Fu;MSc.+Human-centered+AI+%40+DTU)](https://git.io/typing-svg)
+- 👀 I’m interested in probabilistic machine learning, uncertainty quantification and medical image analysis
+- 🔨 I’m currently working on my master's thesis: Uncertainty Quantification in Subnetwork Ensemble Methods for Neural Networks
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi%2C+I'm+Yucheng+Fu)](https://git.io/typing-svg)
+
 <!--
 **TECH-yufu/TECH-yufu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
