@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi%2C+I'm+Yucheng+Fu;MSc.+Human-centered+AI+%40+DTU)](https://git.io/typing-svg)
 - 👀 I’m interested in Probabilistic Machine Learning, Uncertainty Quantification and Medical Image Analysis
-- 🔨 I’m currently working on my master's thesis: [Uncertainty Quantification in Subnetwork Ensemble Methods for Neural Networks](https://github.com/Malthe57/MastersThesis)
+- 🧠 Also mildly curious about generative models 
+- 🔨 Currently working on my master's thesis: [Uncertainty Quantification in Subnetwork Ensemble Methods for Neural Networks](https://github.com/Malthe57/MastersThesis)
 
 When I am not coding, I enjoy
 - 🏸 Playing Badminton
