@@ -2,6 +2,10 @@
 - 👀 I’m interested in Probabilistic Machine Learning, Uncertainty Quantification and Medical Image Analysis
 - 🔨 I’m currently working on my master's thesis: [Uncertainty Quantification in Subnetwork Ensemble Methods for Neural Networks](https://github.com/Malthe57/MastersThesis)
 
+When I am not coding, I enjoy
+- 🏸 Playing Badminton
+- 🎹 Playing Piano (Chopin and Rachmaninoff are my favourite composers!)
+
 Feel free to check out some of my projects below. 
 
 
