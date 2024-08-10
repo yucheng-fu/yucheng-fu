@@ -7,7 +7,7 @@ When I am not coding, I enjoy
 - 🏸 Playing Badminton
 - 🎹 Playing Piano (Chopin and Rachmaninoff are my favourite composers!)
 
-Feel free to check out some of the projects I have contributed to below or [other projects](https://github.com/TECH-yufu/TECH-yufu/tree/main/papers/social-graphs). 
+Feel free to check out some of the projects I have contributed to below.
 
 
 
