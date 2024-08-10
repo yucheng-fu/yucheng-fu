@@ -3,10 +3,6 @@
 - 🧠 Also mildly curious about generative models 
 - 🔨 Currently working on my master's thesis: [Uncertainty Quantification in Subnetwork Ensemble Methods for Neural Networks](https://github.com/Malthe57/MastersThesis)
 
-When I am not coding, I enjoy
-- 🏸 Playing Badminton
-- 🎹 Playing Piano (Chopin and Rachmaninoff are my favourite composers!)
-
 Feel free to check out some of the projects I have contributed to below.
 
 
