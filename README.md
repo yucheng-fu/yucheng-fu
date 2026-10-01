@@ -2,7 +2,7 @@
 
 - 🔭 Curious about how data and ML can solve real-world problems
 - ⚙️ I take a software engineering approach to shipping ML: CI/CD, containerised deployments and tested, maintainable code
-- 👀 I’m broadly interested in Probabilistic Machine Learning and Uncertainty Quantification. Check out my thesis on the subject here: [Uncertainty Quantification in Subnetwork Ensemble Methods for Neural Networks](https://github.com/Malthe57/MastersThesis)
+- 👀 I’m also broadly interested in Probabilistic Machine Learning and Uncertainty Quantification. Check out my thesis on the subject here: [Uncertainty Quantification in Subnetwork Ensemble Methods for Neural Networks](https://github.com/Malthe57/MastersThesis)
 
 Feel free to check out some of the projects I have contributed to below.
 
