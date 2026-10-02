@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi%2C+I'm+Yucheng+Fu;MSc.+Human-centered+AI+%40+DTU)](https://git.io/typing-svg)
 
-- 🔭 Curious about how data and ML can solve real-world problems
+- 🔭 Interested in using data and machine learning to solve complex problems
 - ⚙️ I take a software engineering approach to shipping ML: CI/CD, containerised deployments and tested, maintainable code
 - 👀 I’m also broadly interested in Probabilistic Machine Learning and Uncertainty Quantification. Check out my thesis on the subject here: [Uncertainty Quantification in Subnetwork Ensemble Methods for Neural Networks](https://github.com/Malthe57/MastersThesis)
 
